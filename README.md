@@ -1,6 +1,6 @@
-# My Mini Projects 🚀
+# Data Science Projects 🚀
 
-This repository contains a collection of my **mini projects and experiments** in Python, Jupyter, Web Technologies, and Machine Learning.  
+This repository contains a collection of my **Data Science Projects** in Python, Jupyter, Machine Learning, and Deep Learning.  
 Each folder is an independent project with its own code, datasets, and documentation.
 
 ---
