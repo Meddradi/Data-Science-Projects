@@ -1,6 +1,6 @@
 # Data Science Projects 🚀
 
-This repository contains a collection of my **Data Science Projects** in Python, Jupyter, Machine Learning, and Deep Learning.  
+This repository contains a collection of my **Data Science Projects** in Python, Jupyter, ML, and DL.  
 Each folder is an independent project with its own code, datasets, and documentation.
 
 ---
