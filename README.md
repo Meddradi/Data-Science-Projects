@@ -14,6 +14,17 @@ Each folder is an independent project with its own code, datasets, and documenta
 
 ---
 
+### 🔹 [Project 2: Real-Time Object Detection](./Project%202)
+- **Tech stack**: Python, OpenCV, TensorFlow/Keras, Pre-trained Models (MobileNet/YOLO)  
+- **Description**: A deep learning project that detects and classifies objects in real-time using a webcam feed.  
+- **Highlights**:  
+  - Uses transfer learning with pre-trained models for faster training  
+  - Real-time object detection using OpenCV  
+  - Supports multiple object categories  
+  - Practical deployment-oriented workflow  
+
+---
+
 ## 🛠 How to Run
 
 1. Clone this repository:
